@@ -181,7 +181,7 @@ function init() {
   }
 
 
-  //by default, pranabansaltanishq472ygupta ki info show krre h UI pr
+  //by default, show info about bansaltanishq472 on landing 
   getUserData(url + "bansaltanishq472");
 }
 
